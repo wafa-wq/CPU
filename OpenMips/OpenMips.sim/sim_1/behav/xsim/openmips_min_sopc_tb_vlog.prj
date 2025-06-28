@@ -1,0 +1,25 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../OpenMips.srcs/sources_1/new/ctrl.v" \
+"../../../../OpenMips.srcs/sources_1/new/data_ram.v" \
+"../../../../OpenMips.srcs/sources_1/new/div.v" \
+"../../../../OpenMips.srcs/sources_1/new/ex.v" \
+"../../../../OpenMips.srcs/sources_1/new/ex_mem.v" \
+"../../../../OpenMips.srcs/sources_1/new/hilo_reg.v" \
+"../../../../OpenMips.srcs/sources_1/new/id.v" \
+"../../../../OpenMips.srcs/sources_1/new/id_ex.v" \
+"../../../../OpenMips.srcs/sources_1/new/if_id.v" \
+"../../../../OpenMips.srcs/sources_1/new/inst_rom.v" \
+"../../../../OpenMips.srcs/sources_1/new/mem.v" \
+"../../../../OpenMips.srcs/sources_1/new/mem_wb.v" \
+"../../../../OpenMips.srcs/sources_1/new/openmips.v" \
+"../../../../OpenMips.srcs/sources_1/new/openmips_min_sopc.v" \
+"../../../../OpenMips.srcs/sources_1/new/pc_reg.v" \
+"../../../../OpenMips.srcs/sources_1/new/regfile.v" \
+"../../../../OpenMips.srcs/sim_1/new/openmips_min_sopc_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
