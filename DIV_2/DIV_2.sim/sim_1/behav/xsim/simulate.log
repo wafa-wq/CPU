@@ -1,0 +1,61 @@
+Time resolution is 1 ps
+Test Case 1: 200 / 8 = 25 rem 0
+Q =  25, R =   0, OF = 0, Error = 0
+
+Test Case 2: 123 / 10 = 12 rem 3
+Q =  12, R =   3, OF = 0, Error = 0
+
+Test Case 3: Divide by zero error
+Display: R
+Display: R
+Display: R
+Display: R
+Display: R
+Display: R
+Display: R
+Display: R
+Display: R
+Display: R
+Display: R
+Q = 255, R = 100, OF = 1, Error = 1
+Display: R
+Display: R
+Display: R
+Display: R
+Display: R
+Display: R
+Display: R
+Display: R
+Display: R
+Display: R
+
+Test Case 4: Overflow case (300/1)
+Display: U/V/W
+Display: O
+Display: O
+Display: O
+Display: O
+Display: O
+Display: O
+Display: O
+Display: O
+Display: O
+Display: O
+Display: O
+Q =  44, R =   0, OF = 1, Error = 0
+Display: O
+Display: O
+Display: O
+Display: O
+Display: O
+Display: O
+Display: O
+Display: O
+Display: O
+Display: O
+
+Test Case 5: Boundary case (255/1)
+Q = 255, R =   0, OF = 0, Error = 0
+
+Simulation completed
+$finish called at time : 940 ns : File "D:/DIV_2/DIV_2.srcs/sim_1/new/Divider_2_tb.v" Line 124

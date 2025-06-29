@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+D:/DIV_1/DIV_1.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+D:/DIV_1/DIV_1.srcs/sim_1/new/Divider_1_tb.v,1744707675,verilog,,,,divider_one_tb,,,,,,,,
+D:/DIV_1/DIV_1.srcs/sources_1/new/Divider_1.v,1744805456,verilog,,D:/DIV_1/DIV_1.srcs/sources_1/new/scan_seg_disp.v,,divider_1,,,,,,,,
+D:/DIV_1/DIV_1.srcs/sources_1/new/scan_seg_disp.v,1744707330,verilog,,D:/DIV_1/DIV_1.srcs/sources_1/new/top.v,,display,,,,,,,,
+,,,,D:/DIV_1/DIV_1.srcs/sim_1/new/Divider_1_tb.v,,top,,,,,,,,

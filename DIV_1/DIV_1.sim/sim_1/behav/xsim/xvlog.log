@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DIV_1/DIV_1.srcs/sources_1/new/Divider_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module divider_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DIV_1/DIV_1.srcs/sources_1/new/scan_seg_disp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module display
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DIV_1/DIV_1.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DIV_1/DIV_1.srcs/sim_1/new/Divider_1_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module divider_one_tb
