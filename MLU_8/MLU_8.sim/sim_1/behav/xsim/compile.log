@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MLU_8/MLU_8.srcs/sources_1/new/MLU_8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUL_8
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/MLU_8/MLU_8.srcs/sim_1/new/MUL_8_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MUL_8_tb
